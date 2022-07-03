@@ -2,3 +2,4 @@ During this challenge I had the opportunity to learn a lot about SQL which is so
 
 
 Github Repository: https://github.com/colinale/SQL
+Video: https://youtu.be/IYV60QnxQAY
